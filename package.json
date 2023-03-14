@@ -22,10 +22,10 @@
     "express-async-errors": "^3.1.1",
     "formidable": "^1.2.2",
     "joi": "^17.4.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
+    "mongoose": "^5.13.16",
     "morgan": "^1.10.0",
-    "ssl-commerz-node": "^1.0.2",
-    "mongoose": "5.12.1"
+    "ssl-commerz-node": "^1.0.2"
   }
 }
